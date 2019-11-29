@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ## Demo
-![Demo](https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us/blob/master/demo/Capture1.PNG)
+![Demo](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/ezgif.com-video-to-gif.gif)
 
 ## Code
 ![Code](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/code.PNG)
@@ -41,7 +41,7 @@
 
 ## Models evaluation
 ![evaluation](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Capture2.PNG)
-![evaluation](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Capture2.PNG)
+![evaluation](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Plot.png)
 
 ### Built With
 * [Python](https://www.python.org/)
